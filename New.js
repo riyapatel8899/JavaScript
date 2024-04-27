@@ -1,5 +1,5 @@
 //Problem 1
-let str = "Riya\""
+let str = "Riya Bhalodiya\""
 console.log(str.length)
 
 //Problem 2
